@@ -2,7 +2,7 @@ const BLOG = {
   title: '夏泉的后院',
   author: '夏泉',
   email: 'blog0@hxueh.net',
-  link: 'https://blog.hxueh.net',
+  link: 'https://www.hxueh.net',
   description: '你的树洞，我的镜子',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
